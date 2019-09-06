@@ -66,3 +66,283 @@ Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist 
 Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
 ----------------
 
+Venue Name: Hard Rock Live Orlando
+
+Venue Location: Orlando
+
+Concert Date: 09/04/2019
+----------------
+
+Venue Name: Coca-Cola Roxy
+
+Venue Location: Atlanta
+
+Concert Date: 09/06/2019
+----------------
+
+Venue Name: House of Blues Boston presented by Cricket Wireless
+
+Venue Location: Boston
+
+Concert Date: 09/11/2019
+----------------
+
+Venue Name: The Anthem
+
+Venue Location: Washington
+
+Concert Date: 09/08/2019
+----------------
+
+Venue Name: The Fillmore Detroit presented by Cricket Wireless
+
+Venue Location: Detroit
+
+Concert Date: 09/18/2019
+----------------
+
+Venue Name: The Fillmore Philadelphia presented by Cricket Wireless
+
+Venue Location: Philadelphia
+
+Concert Date: 09/13/2019
+----------------
+
+Venue Name: Terminal 5
+
+Venue Location: New York
+
+Concert Date: 09/15/2019
+----------------
+
+Venue Name: Aragon Ballroom
+
+Venue Location: Chicago
+
+Concert Date: 09/20/2019
+----------------
+
+Venue Name: Myth Live
+
+Venue Location: Maplewood
+
+Concert Date: 09/21/2019
+----------------
+
+Venue Name: Uptown Theater
+
+Venue Location: Kansas City
+
+Concert Date: 09/23/2019
+----------------
+
+Venue Name: South Side Ballroom
+
+Venue Location: Dallas
+
+Concert Date: 09/24/2019
+----------------
+
+Venue Name: The Union Event Center
+
+Venue Location: Salt Lake City
+
+Concert Date: 09/28/2019
+----------------
+
+Venue Name: House of Blues Las Vegas presented by Cricket Wireless
+
+Venue Location: Las Vegas
+
+Concert Date: 09/30/2019
+----------------
+
+Venue Name: Marquee Theatre
+
+Venue Location: Tempe
+
+Concert Date: 10/01/2019
+----------------
+
+Venue Name: The Warfield
+
+Venue Location: San Francisco
+
+Concert Date: 10/04/2019
+----------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles
+
+Concert Date: 10/11/2019
+----------------
+
+Venue Name: Discovery Park
+
+Venue Location: Sacramento
+
+Concert Date: 10/13/2019
+----------------
+
+Venue Name: Roseland Theater
+
+Venue Location: Portland
+
+Concert Date: 10/15/2019
+----------------
+
+Venue Name: Paramount Theatre
+
+Venue Location: Seattle
+
+Concert Date: 10/16/2019
+----------------
+
+Venue Name: さいたまスーパーアリーナ
+
+Venue Location: さいたま市
+
+Concert Date: 11/17/2019
+----------------
+
+Venue Name: 大阪城ホール
+
+Venue Location: 大阪市
+
+Concert Date: 11/21/2019
+----------------
+
+Venue Name: 9 Lung Wo Rd
+
+Venue Location: Central District
+
+Concert Date: 11/22/2019
+----------------
+
+Venue Name: Fryshuset
+
+Venue Location: Stockholm
+
+Concert Date: 02/03/2020
+----------------
+
+Venue Name: Sentrum Scene
+
+Venue Location: Oslo
+
+Concert Date: 02/04/2020
+----------------
+
+Venue Name: VEGA - Musikkens Hus, Store Vega
+
+Venue Location: København V
+
+Concert Date: 02/05/2020
+----------------
+
+Venue Name: Grosse Freiheit 36
+
+Venue Location: Hamburg
+
+Concert Date: 02/08/2020
+----------------
+
+Venue Name: Carlswerk Victoria
+
+Venue Location: Köln
+
+Concert Date: 02/13/2020
+----------------
+
+Venue Name: Élysée Montmartre
+
+Venue Location: Paris
+
+Concert Date: 02/09/2020
+----------------
+
+Venue Name: Ancienne Belgique
+
+Venue Location: Brussels
+
+Concert Date: 02/16/2020
+----------------
+
+Venue Name: Huxleys Neue Welt
+
+Venue Location: Berlin
+
+Concert Date: 02/14/2020
+----------------
+
+Venue Name: Ogden Theatre
+
+Venue Location: Denver
+
+Concert Date: 09/27/2019
+----------------
+
+Venue Name: 013 Poppodium
+
+Venue Location: Tilburg
+
+Concert Date: 02/17/2020
+----------------
+
+Venue Name: O2 Apollo Manchester
+
+Venue Location: Manchester
+
+Concert Date: 02/22/2020
+----------------
+
+Venue Name: Barrowland Ballroom
+
+Venue Location: Glasgow
+
+Concert Date: 02/19/2020
+----------------
+
+Venue Name: KULTTUURITALO
+
+Venue Location: Helsinki
+
+Concert Date: 02/26/2020
+----------------
+
+Title: Rambo
+
+Release Year: 2008
+
+IMdB Rating: 7.0
+
+Rotten Tomatoes Rating: 37%
+
+Country: Germany, USA
+
+Language: English, Burmese, Thai
+
+Plot: In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit.
+
+Actors: Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish
+----------------
+
+Artist(s): Adele
+
+Song Name: Hello
+
+Preview Link: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=aaea406c45db403487214b4258fa44d0
+
+Album Name: 25
+----------------
+
+Artist(s): Sugar Ray
+
+Song Name: Fly
+
+Preview Link: https://p.scdn.co/mp3-preview/f7fe4ab27538c3c60e92dc91f584ab1388188194?cid=aaea406c45db403487214b4258fa44d0
+
+Album Name: Floored
+----------------
+
