@@ -4,7 +4,7 @@ LIRI (aka Language Interpretation and Recognition Interface) is a command line n
 ## Concerts ##
 To access information about concerts, type 'concert-this' along with a band name, and LIRI will provide a list of cities, venues, and dates. Example: 
 
-## Screenshots![Concerts]
+## Screenshots![concert]
 
 (https://github.com/edivya/Liri-node-app/blob/master/images/concert.jpg)
 
@@ -12,7 +12,7 @@ To access information about concerts, type 'concert-this' along with a band name
 ## Movies ##
 To access information about concerts, type 'movie-this' along with a movie name, and LIRI will provide information about the plot, year released, rating, and actors. If no movie is entered, LIRI will provide information about the movie "Mr. Nobody." Example: 
 
-## Screenshots![Movies]
+## Screenshots![movies]
 
 
 
