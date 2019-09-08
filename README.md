@@ -25,7 +25,7 @@ To access information about songs, type 'spotify-this-song' along with a song ti
 
 ## Screenshots
 
-![songs](https://github.com/edivya/Liri-node-app/blob/master/images/songs.jpg)
+![songs](https://github.com/edivya/Liri-node-app/blob/master/images/songs.png)
 
 
 
