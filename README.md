@@ -20,9 +20,11 @@ To access information about concerts, type 'movie-this' along with a movie name,
 ## songs ##
 To access information about songs, type 'spotify-this-song' along with a song title, and LIRI will provide the artist, album name, and preview URL. If no song is entered, LIRI will provide information about "The Sign" by Ace of Base. Example: 
 
+
 ## Screenshots
 
-!(https://github.com/edivya/Liri-node-app/blob/master/images/songs.png)
+![songs](https://github.com/edivya/Liri-node-app/blob/master/images/concert.jpg)
+
 
 
 ## And just for fun.... ##
