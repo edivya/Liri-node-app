@@ -33,4 +33,4 @@ To access information about songs, type 'spotify-this-song' along with a song ti
 Type do-what-it-says into the command line, and see what LIRI gives you.
 
 ## Developer's Toolkit ##
-JavaScript, npm, API's (bandsintown, spotify, moment, omdb)
+* JavaScript, npm, API's (bandsintown, spotify, moment, omdb)
